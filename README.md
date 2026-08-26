@@ -1,6 +1,6 @@
 # Phage-hunters-cohort-004
 Phage genomics coursework
-**Tool	What it does	Takes in	Gives back*
+**Tool What it does	Takes in	Gives back*
 fasterq-dump	Downloads reads from NCBI's SRA	An accession number	FASTQ files
 gzip	Compresses files	Any file	Same file, ~4× smaller
 FastQC	Inspects read quality	FASTQ	An HTML report
